@@ -1,0 +1,6 @@
+.project
+target/
+release/
+.idea/
+*.iml
+.DS_Store
